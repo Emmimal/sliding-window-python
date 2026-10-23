@@ -8,7 +8,6 @@ Companion code for the tutorial **[Sliding Window Technique in Python: Complete 
 
 The tutorial builds a small monitoring toolkit for a request log. Every function is tested against a slow brute-force version on thousands of random inputs, and every speed claim is measured.
 
-![A window of size 3 sliding across the list 2, 1, 5, 1, 3, 2. At each of four steps, one number enters on the right and one leaves on the left, and the sum updates from 8 to 7, then 9, then 6.](images/window-diagram.svg)
 
 ## What's inside
 
@@ -150,11 +149,6 @@ Install the dev tools and run the same checks as CI:
 ```text
 sliding-window-python/
 ├── .github/workflows/tests.yml
-├── images/
-│   ├── window-diagram.svg
-│   ├── deque-window-diagram.svg
-│   ├── variable-window-diagram.svg
-│   └── negative-numbers-diagram.svg
 ├── sample_data.py
 ├── sliding_window.py
 ├── rate_limiter.py
