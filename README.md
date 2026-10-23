@@ -176,7 +176,7 @@ sliding-window-python/
 ## Related reading
 
 - [Two Pointers in Python: A Complete Problem-Solving Guide](https://emitechlogic.com/two-pointers-in-python/), the previous article in the series
-- [Data Structures & Algorithms with Python](https://emitechlogic.com/data-structures-and-algorithms-with-python/), the full roadmap
+- [Data Structures & Algorithms with Python](https://emitechlogic.com/data-structures-and-algorithms-python/), the full roadmap
 - [`itertools` recipes](https://docs.python.org/3/library/itertools.html), including the `sliding_window()` recipe that `windows()` is based on
 
 ## License
